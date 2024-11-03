@@ -1,7 +1,10 @@
 {
 	"dependencies": {
-		"puppeteer": "^23.6.1",
+		"-": "^0.0.1",
+		"g": "^2.0.1",
 		"node-cron": "^3.0.3",
+		"pnpm": "^9.12.3",
+		"puppeteer": "^23.6.1",
 		"simple-git": "^3.27.0"
 	}
 }
